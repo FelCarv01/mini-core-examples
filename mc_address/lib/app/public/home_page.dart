@@ -5,6 +5,7 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    //TODO: The page must be created, for now use the test.
     return const Placeholder();
   }
 }
